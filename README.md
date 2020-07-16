@@ -1,3 +1,5 @@
+`covid19-NatEst.csv`
+
 Current Hospital Capacity Estimates – Snapshot
 
 Estimates of hospital capacity were available at the national and state levels. These estimates used data that hospitals submitted to the NHSN COVID-19 Module and statistical methods that included weighting (to account for non-response) and multiple imputation (to account for missing data). The estimates (number and percentage) are shown along with 95% confidence intervals that reflect random error.
